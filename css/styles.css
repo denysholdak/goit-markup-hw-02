@@ -168,6 +168,7 @@ letter-spacing: 0.03em;
 /*Портфолио*/
 
 .btn-grey {
+    font-family: inherit;
     color: var(--header-and-item);
     background-color: var(--gray-fon);
     font-weight: 500;
