@@ -86,6 +86,7 @@ letter-spacing: 0.03em;
 }
 
 .button-blu {
+    font-family: inherit;
     color: var(--white);
     background-color: var(--accent-color);
     font-weight: 700;
